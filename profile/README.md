@@ -1,4 +1,4 @@
-![Authlete Banner](https://github.com/authlete/.github/assets/1127876/eaeccebb-b1c1-45f7-befa-3c2451908288)
+![Authlete GH Banner-01-h1400](https://github.com/authlete/.github/assets/1127876/b3ed5ad8-adf9-4b58-9491-df9a7472e20c)
 
 # Authlete
 Authlete is an API for implementing OAuth 2.0 and OpenID Connect server functionality as part of your service. Focusing on protocol processing and token management, the API can be integrated with any user authentication system or API gateway and can be called from any language or framework. In addition, Authlete runs entirely in the backend, serving as a subsystem within your service. This approach gives developers the flexibility to build the optimum frontend user experience, ensuring developers retain full control.
