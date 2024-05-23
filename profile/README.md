@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/authlete/.github/assets/1127876/a1d68ef2-6150-4fcc-923d-9b365acd0196" height="260" width="240" alt="Authlete Blue Emblem Logo">
+    <img src="https://github.com/authlete/.github/assets/1127876/a1d68ef2-6150-4fcc-923d-9b365acd0196" height="195" width="180" alt="Authlete Blue Emblem Logo">
 </p>
 
 # Authlete
