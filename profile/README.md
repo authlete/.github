@@ -16,7 +16,7 @@ Authlete is an API for implementing OAuth 2.0 and OpenID Connect server function
 ## More on Authlete, OAuth, and OIDC
 - [The OAuth Track](https://youtube.com/playlist?list=PLxDcFnLrbxvYVqvGAUxPmAUU7wNGYFNwf&feature=shared) playlist on YouTube
 - [Authlete and Making OAuth Accessible](https://softwareengineeringdaily.com/2024/04/11/authlete-and-making-oauth-accessible-with-justin-richer/) on Sofware Engineering Daily
-- [Enhancing OAuth Security and Interoperability Using FAPI](https://softwareengineeringdaily.com/2024/11/14/enhancing-oauth-security-using-fapi-with-joseph-heenan/)
+- [Enhancing OAuth Security and Interoperability Using FAPI](https://softwareengineeringdaily.com/2024/11/14/enhancing-oauth-security-using-fapi-with-joseph-heenan/) on Software Engineering Daily
 - [Why OAuth is Hard](https://youtu.be/DbGMo4YBXMA?feature=shared) on the Abbeal Brown-Bag Lunch tech talks
 
 ## Work with Us
