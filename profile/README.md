@@ -6,7 +6,7 @@ Authlete is an API for implementing OAuth 2.0 and OpenID Connect server function
 ![API Request Protected by Authlete](https://github.com/authlete/.github/assets/170624196/ce2abc2a-2793-4594-bcdb-4f76a2087f99)
 
 ## Build with Authlete
-- To get started with your own OAuth authorization server or OIDC identity provider, [sign-up](https://so.authlete.com/accounts/signup) for Authlete. 
+- To get started with your own OAuth authorization server or OIDC identity provider, [sign-up](https://login.authlete.com/signup) for Authlete. 
 - [Issue](https://www.authlete.com/developers/getting_started/) your first OAuth access token. 
 - [Create and connect](https://www.authlete.com/developers/tutorial/signup/) to your first Authlete service and client application. 
 - Build an OAuth authorization server and integrate it into a client application in this [hands-on excercise](https://www.authlete.com/developers/tutorial/getting_started_java/). 
@@ -16,6 +16,7 @@ Authlete is an API for implementing OAuth 2.0 and OpenID Connect server function
 ## More on Authlete, OAuth, and OIDC
 - [The OAuth Track](https://youtube.com/playlist?list=PLxDcFnLrbxvYVqvGAUxPmAUU7wNGYFNwf&feature=shared) playlist on YouTube
 - [Authlete and Making OAuth Accessible](https://softwareengineeringdaily.com/2024/04/11/authlete-and-making-oauth-accessible-with-justin-richer/) on Sofware Engineering Daily
+- [Enhancing OAuth Security and Interoperability Using FAPI](https://softwareengineeringdaily.com/2024/11/14/enhancing-oauth-security-using-fapi-with-joseph-heenan/)
 - [Why OAuth is Hard](https://youtu.be/DbGMo4YBXMA?feature=shared) on the Abbeal Brown-Bag Lunch tech talks
 
 ## Work with Us
